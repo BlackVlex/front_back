@@ -1,0 +1,20 @@
+# Виртуальное окружение
+venv/
+env/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# База данных SQLite (создается при migrate)
+db.sqlite3
+db.sqlite3-journal
+
+# Файлы IDE
+.vscode/
+.idea/
+
+# Системные файлы Linux/Mac
+.DS_Store
+Thumbs.db
